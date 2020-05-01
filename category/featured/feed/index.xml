@@ -12,7 +12,7 @@
 	<atom:link href="/category/featured/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Your quick source of designer fragrance decants</description>
-	<lastBuildDate>Tue, 21 Jul 2015 09:32:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 May 2020 14:16:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,9 +30,8 @@
 	<item>
 		<title>Bibendum cursus</title>
 		<link>/bibendum-cursus/</link>
-					<comments>/bibendum-cursus/#respond</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Dale Bartolome]]></dc:creator>
 		<pubDate>Tue, 21 Jul 2015 09:32:48 +0000</pubDate>
 				<category><![CDATA[Featured]]></category>
 		<guid isPermaLink="false">http://demo.themegrill.com/himalayas/?p=87</guid>
@@ -45,17 +44,14 @@
 <p>The post <a rel="nofollow" href="/bibendum-cursus/">Bibendum cursus</a> appeared first on <a rel="nofollow" href="">Reminiscent</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/bibendum-cursus/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Aliquam luctus</title>
 		<link>/aliquam-luctus/</link>
-					<comments>/aliquam-luctus/#respond</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Dale Bartolome]]></dc:creator>
 		<pubDate>Tue, 21 Jul 2015 09:31:41 +0000</pubDate>
 				<category><![CDATA[Featured]]></category>
 		<guid isPermaLink="false">http://demo.themegrill.com/himalayas/?p=86</guid>
@@ -68,17 +64,14 @@
 <p>The post <a rel="nofollow" href="/aliquam-luctus/">Aliquam luctus</a> appeared first on <a rel="nofollow" href="">Reminiscent</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/aliquam-luctus/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hall of Flowers</title>
 		<link>/hall-of-flowers/</link>
-					<comments>/hall-of-flowers/#respond</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Dale Bartolome]]></dc:creator>
 		<pubDate>Tue, 21 Jul 2015 09:30:07 +0000</pubDate>
 				<category><![CDATA[Featured]]></category>
 		<guid isPermaLink="false">http://demo.themegrill.com/himalayas/?p=85</guid>
@@ -91,8 +84,6 @@
 <p>The post <a rel="nofollow" href="/hall-of-flowers/">Hall of Flowers</a> appeared first on <a rel="nofollow" href="">Reminiscent</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hall-of-flowers/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -106,5 +97,5 @@ Page Caching using disk: enhanced (Page is feed)
 Lazy Loading (feed)
 Minified using disk
 
-Served from: localhost @ 2020-05-01 21:34:55 by W3 Total Cache
+Served from: localhost @ 2020-05-01 22:41:55 by W3 Total Cache
 -->
