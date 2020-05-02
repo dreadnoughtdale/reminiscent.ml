@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/04/cropped-icon-32x32.png</url>
+	<url>/wp-content/uploads/2020/04/cropped-icon-150x150.png</url>
 	<title>Reminiscent</title>
 	<link></link>
 	<width>32</width>
@@ -97,5 +97,5 @@ Page Caching using disk: enhanced (Page is feed)
 Lazy Loading (feed)
 Minified using disk
 
-Served from: localhost @ 2020-05-02 14:11:22 by W3 Total Cache
+Served from: localhost @ 2020-05-02 14:27:35 by W3 Total Cache
 -->
