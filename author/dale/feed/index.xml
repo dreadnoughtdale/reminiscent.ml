@@ -12,7 +12,7 @@
 	<atom:link href="/author/dale/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Your quick source of designer fragrance decants</description>
-	<lastBuildDate>Fri, 01 May 2020 14:16:51 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 02 May 2020 10:11:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -36,10 +36,10 @@
 				<category><![CDATA[Featured]]></category>
 		<guid isPermaLink="false">http://demo.themegrill.com/himalayas/?p=87</guid>
 
-					<description><![CDATA[<p>Phasellus tincidunt faucibus quam, eu bibendu nunc cursus non. Curabitur scelerisque ferm entum orci at egestas. Maecenas viverra nec velit vel aliquam  nam tincidunt midolor.</p>
+					<description><![CDATA[<p>Phasellus tincidunt faucibus quam, eu bibendu nunc cursus non. Curabitur scelerisque ferm entum orci at egestas. Maecenas viverra nec velit vel aliquam&#160; nam tincidunt midolor.</p>
 <p>The post <a rel="nofollow" href="/bibendum-cursus/">Bibendum cursus</a> appeared first on <a rel="nofollow" href="">Reminiscent</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>Phasellus tincidunt faucibus quam, eu bibendu nunc cursus non. Curabitur scelerisque ferm entum orci at egestas. Maecenas viverra nec velit vel aliquam  nam tincidunt midolor. Sed vitae lorem in nisl iaculis cursus. Praesent a dui elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam erat volutpat. Fusce viverra mauris non libero fermentum, et finibus leo accumsan.</p>
+										<content:encoded><![CDATA[<p>Phasellus tincidunt faucibus quam, eu bibendu nunc cursus non. Curabitur scelerisque ferm entum orci at egestas. Maecenas viverra nec velit vel aliquam&nbsp; nam tincidunt midolor. Sed vitae lorem in nisl iaculis cursus. Praesent a dui elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam erat volutpat. Fusce viverra mauris non libero fermentum, et finibus leo accumsan.</p>
 <p>Ut non felis egestas, cursus libero ac, interdum ipsum. Praesent maximus imperdiet massa eu tristique. Quisque interdum, leo sit amet condimentum dignissim, ipsum libero faucibus magna, et eleifend leo mi at sapien. Proin et dui mollis, blandit felis dictum, fermentum ante. Pellentesque commodo non odio nec mattis. Maecenas sit amet faucibus augue, eget consectetur lectus. In ornare imperdiet fermentum. Phasellus bibendum eros non sodales posuere. In a ultricies magna.</p>
 <p>The post <a rel="nofollow" href="/bibendum-cursus/">Bibendum cursus</a> appeared first on <a rel="nofollow" href="">Reminiscent</a>.</p>
 ]]></content:encoded>
@@ -97,5 +97,5 @@ Page Caching using disk: enhanced (Page is feed)
 Lazy Loading (feed)
 Minified using disk
 
-Served from: localhost @ 2020-05-02 17:53:36 by W3 Total Cache
+Served from: localhost @ 2020-05-02 18:15:16 by W3 Total Cache
 -->
