@@ -19,7 +19,7 @@ jQuery( document ).ready( function () {
 	} );
 
 
-	//************************ one page nav ***********************************//
+	//************************  nav ***********************************//
 
 	jQuery( '#site-navigation' ).onePageNav( {
 		currentClass    : 'current-one-page-item',
