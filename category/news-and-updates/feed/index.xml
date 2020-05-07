@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Dale Bartolome &#8211; Reminiscent</title>
-	<atom:link href="/author/dale/feed/" rel="self" type="application/rss+xml" />
+	<title>News and Updates &#8211; Reminiscent</title>
+	<atom:link href="/category/news-and-updates/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Your quick source of designer fragrance decants</description>
 	<lastBuildDate>Thu, 07 May 2020 09:51:09 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2020/04/cropped-icon-150x150.png</url>
-	<title>Dale Bartolome &#8211; Reminiscent</title>
+	<title>News and Updates &#8211; Reminiscent</title>
 	<link></link>
 	<width>32</width>
 	<height>32</height>
