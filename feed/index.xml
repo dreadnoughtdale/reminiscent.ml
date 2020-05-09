@@ -12,7 +12,7 @@
 	<atom:link href="http://reminiscent.ml/feed/" rel="self" type="application/rss+xml" />
 	<link>http://reminiscent.ml</link>
 	<description>Your quick source of designer fragrance decants</description>
-	<lastBuildDate>Sat, 09 May 2020 17:23:39 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 May 2020 17:39:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,8 +33,7 @@
 		
 		<dc:creator><![CDATA[Dale Bartolome]]></dc:creator>
 		<pubDate>Sat, 09 May 2020 17:09:34 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[News and Updates]]></category>
+				<category><![CDATA[News and Updates]]></category>
 		<guid isPermaLink="false">http://reminiscent.ml/?p=524</guid>
 
 					<description><![CDATA[<p>We are glad to announce that Reminiscent&#8217;s Facebook Page and Messenger is now 24/7 online. Through hard work and dedication, we were able to create</p>
@@ -102,8 +101,7 @@
 		
 		<dc:creator><![CDATA[Dale Bartolome]]></dc:creator>
 		<pubDate>Thu, 07 May 2020 09:48:10 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[News and Updates]]></category>
+				<category><![CDATA[News and Updates]]></category>
 		<guid isPermaLink="false">http://reminiscent.ml/?p=507</guid>
 
 					<description><![CDATA[<p>After months of hard work and dedication, we are excited to officially announce the launch of our website! Come check us out at reminiscent.ml Our</p>
@@ -139,5 +137,5 @@ Page Caching using disk: enhanced (Page is feed)
 Lazy Loading (feed)
 Minified using disk
 
-Served from: localhost @ 2020-05-10 01:31:39 by W3 Total Cache
+Served from: localhost @ 2020-05-10 01:40:46 by W3 Total Cache
 -->
