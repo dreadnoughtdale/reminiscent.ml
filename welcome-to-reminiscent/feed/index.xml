@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Welcome to Reminiscent	</title>
-	<atom:link href="/welcome-to-reminiscent/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://reminiscent.ml/welcome-to-reminiscent/feed/" rel="self" type="application/rss+xml" />
+	<link>http://reminiscent.ml</link>
 	<description>Your quick source of designer fragrance decants</description>
 	<lastBuildDate>Thu, 07 May 2020 08:22:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -27,5 +27,5 @@ Page Caching using disk: enhanced (Page is feed)
 Lazy Loading (feed)
 Minified using disk
 
-Served from: localhost @ 2020-05-09 23:05:04 by W3 Total Cache
+Served from: localhost @ 2020-05-09 23:31:41 by W3 Total Cache
 -->

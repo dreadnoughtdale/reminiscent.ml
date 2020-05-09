@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Mariz Del Castillo	</title>
-	<atom:link href="/mariz-del-castillo/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://reminiscent.ml/mariz-del-castillo/feed/" rel="self" type="application/rss+xml" />
+	<link>http://reminiscent.ml</link>
 	<description>Your quick source of designer fragrance decants</description>
 	<lastBuildDate>Sat, 02 May 2020 08:59:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -27,5 +27,5 @@ Page Caching using disk: enhanced (Page is feed)
 Lazy Loading (feed)
 Minified using disk
 
-Served from: localhost @ 2020-05-09 23:05:05 by W3 Total Cache
+Served from: localhost @ 2020-05-09 23:31:42 by W3 Total Cache
 -->

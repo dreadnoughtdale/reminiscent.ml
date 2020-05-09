@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Dale Bartolome &#8211; Reminiscent</title>
-	<atom:link href="/author/dale/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://reminiscent.ml/author/dale/feed/" rel="self" type="application/rss+xml" />
+	<link>http://reminiscent.ml</link>
 	<description>Your quick source of designer fragrance decants</description>
 	<lastBuildDate>Thu, 07 May 2020 09:51:09 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/04/cropped-icon-150x150.png</url>
+	<url>http://reminiscent.ml/wp-content/uploads/2020/04/cropped-icon-150x150.png</url>
 	<title>Dale Bartolome &#8211; Reminiscent</title>
-	<link></link>
+	<link>http://reminiscent.ml</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Our New Website is Now Live!</title>
-		<link>/our-new-website-is-now-live/</link>
+		<link>http://reminiscent.ml/our-new-website-is-now-live/</link>
 		
 		<dc:creator><![CDATA[Dale Bartolome]]></dc:creator>
 		<pubDate>Thu, 07 May 2020 09:48:10 +0000</pubDate>
 				<category><![CDATA[News and Updates]]></category>
-		<guid isPermaLink="false">/?p=507</guid>
+		<guid isPermaLink="false">http://reminiscent.ml/?p=507</guid>
 
 					<description><![CDATA[<p>After months of hard work and dedication, we are excited to officially announce the launch of our website! Come check us out at reminiscent.ml Our</p>
-<p>The post <a rel="nofollow" href="/our-new-website-is-now-live/">Our New Website is Now Live!</a> appeared first on <a rel="nofollow" href="">Reminiscent</a>.</p>
+<p>The post <a rel="nofollow" href="http://reminiscent.ml/our-new-website-is-now-live/">Our New Website is Now Live!</a> appeared first on <a rel="nofollow" href="http://reminiscent.ml">Reminiscent</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>After months of hard work and dedication, we are excited to officially announce the launch of our website! Come check us out at <a href="http://reminiscent.ml/">reminiscent.ml</a></p>
@@ -53,7 +53,7 @@
 
 
 <p>We hope you enjoy our website! For any questions, suggestions, feedback or comments, please leave us a message through Messenger. <a href="http://m.me/reminiscent.ml" target="_blank" rel="noreferrer noopener">m.me/reminiscent.ml</a></p>
-<p>The post <a rel="nofollow" href="/our-new-website-is-now-live/">Our New Website is Now Live!</a> appeared first on <a rel="nofollow" href="">Reminiscent</a>.</p>
+<p>The post <a rel="nofollow" href="http://reminiscent.ml/our-new-website-is-now-live/">Our New Website is Now Live!</a> appeared first on <a rel="nofollow" href="http://reminiscent.ml">Reminiscent</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -69,5 +69,5 @@ Page Caching using disk: enhanced (Page is feed)
 Lazy Loading (feed)
 Minified using disk
 
-Served from: localhost @ 2020-05-09 23:05:04 by W3 Total Cache
+Served from: localhost @ 2020-05-09 23:31:41 by W3 Total Cache
 -->
