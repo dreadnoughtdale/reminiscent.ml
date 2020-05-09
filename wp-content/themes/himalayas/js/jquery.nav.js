@@ -1,5 +1,5 @@
 /*
- * jQuery  Nav Plugin
+ * jQuery One Page Nav Plugin
  * http://github.com/davist11/jQuery-One-Page-Nav
  *
  * Copyright (c) 2010 Trevor Davis (http://trevordavis.net)

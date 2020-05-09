@@ -3,7 +3,7 @@ Theme Name: Himalayas
 Theme URI: https://themegrill.com/themes/himalayas/
 Author: ThemeGrill
 Author URI: https://themegrill.com
-Description: Himalayas is modern style free  parallax responsive WordPress theme. Inform your visitors all they need to know right from your home page without requiring to go to the other pages. Himalayas can be used for business, portfolio, corporate, agency, photography, freelancers and almost any kind of sites. Get free support at https://themegrill.com/support-forum/ and check the demo at https://demo.themegrill.com/himalayas/
+Description: Himalayas is modern style free one page parallax responsive WordPress theme. Inform your visitors all they need to know right from your home page without requiring to go to the other pages. Himalayas can be used for business, portfolio, corporate, agency, photography, freelancers and almost any kind of sites. Get free support at https://themegrill.com/support-forum/ and check the demo at https://demo.themegrill.com/himalayas/
 Version: 1.2.2
 License: GNU General Public License, version 3 (GPLv3)
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
@@ -1721,7 +1721,7 @@ Slider css
 }
 
 .slider-wrapper .parallax-overlay {
-	background: url(/wp-content/themes/himalayas/images/pattern-overlay.png) repeat scroll 0 0 rgba(0, 0, 0, 0.3);
+	background: url(http://reminiscent.ml/wp-content/themes/himalayas/images/pattern-overlay.png) repeat scroll 0 0 rgba(0, 0, 0, 0.3);
 }
 
 .slider-wrapper figure {
@@ -1802,7 +1802,7 @@ Slider css
 	top: 0;
 	left: 0;
 	content: "";
-	background: url(/wp-content/themes/himalayas/images/slider-title-new-arrow.png) no-repeat scroll 0 center;
+	background: url(http://reminiscent.ml/wp-content/themes/himalayas/images/slider-title-new-arrow.png) no-repeat scroll 0 center;
 	width: 4px;
 	height: 100%;
 }
@@ -1864,7 +1864,7 @@ Slider css
 
 .slider-wrapper .bx-prev,
 .slider-wrapper .bx-next {
-	background: rgba(0, 0, 0, 0) url("/wp-content/themes/himalayas/images/slider-arrow.png") no-repeat scroll 0 0;
+	background: rgba(0, 0, 0, 0) url("http://reminiscent.ml/wp-content/themes/himalayas/images/slider-arrow.png") no-repeat scroll 0 0;
 	color: transparent;
 	font: 0px/0 a;
 	height: 48px;
@@ -1901,7 +1901,7 @@ Slider css
 
 .slider-wrapper .bx-prev:hover,
 .slider-wrapper .bx-next:hover {
-	background: url(/wp-content/themes/himalayas/images/slider-arrow-hover.png) no-repeat scroll 0 0;
+	background: url(http://reminiscent.ml/wp-content/themes/himalayas/images/slider-arrow-hover.png) no-repeat scroll 0 0;
 }
 
 .slider-wrapper:hover .bx-next {
@@ -2073,7 +2073,7 @@ Video background css
 }
 
 .video-wrapper .parallax-overlay {
-	background: url(/wp-content/themes/himalayas/images/pattern-overlay.png) repeat scroll rgba(0, 0, 0, 0.3);
+	background: url(http://reminiscent.ml/wp-content/themes/himalayas/images/pattern-overlay.png) repeat scroll rgba(0, 0, 0, 0.3);
 }
 
 /*--------------------------------------------------------------
@@ -2204,7 +2204,7 @@ Video background css
 --------------------------------------------------------------*/
 
 #call-to-action-form {
-	background-image: url("/wp-content/themes/himalayas/images/call-to-action.jpg");
+	background-image: url("http://reminiscent.ml/wp-content/themes/himalayas/images/call-to-action.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;

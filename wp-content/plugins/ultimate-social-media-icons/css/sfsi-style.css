@@ -2,32 +2,32 @@
 
 @font-face {
     font-family: helveticabold;
-    src: url(fonts/helvetica_bold_0-webfont.eot);
-    src: url(fonts/helvetica_bold_0-webfont.eot?#iefix) format('embedded-opentype'), url(fonts/helvetica_bold_0-webfont.woff) format('woff'), url(fonts/helvetica_bold_0-webfont.ttf) format('truetype'), url(fonts/helvetica_bold_0-webfont.svg#helveticabold) format('svg');
+    src: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_bold_0-webfont.eot);
+    src: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_bold_0-webfont.eot#iefix) format('embedded-opentype'), url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_bold_0-webfont.woff) format('woff'), url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_bold_0-webfont.ttf) format('truetype'), url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_bold_0-webfont.svg#helveticabold) format('svg');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: helveticaregular;
-    src: url(fonts/helvetica_0-webfont.eot);
-    src: url(fonts/helvetica_0-webfont.eot?#iefix) format('embedded-opentype'), url(fonts/helvetica_0-webfont.woff) format('woff'), url(fonts/helvetica_0-webfont.ttf) format('truetype'), url(fonts/helvetica_0-webfont.svg#helveticaregular) format('svg');
+    src: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.eot);
+    src: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.eot#iefix) format('embedded-opentype'), url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.woff) format('woff'), url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.ttf) format('truetype'), url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.svg#helveticaregular) format('svg');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: helvetica-light;
-    src: url(fonts/helvetica_0-webfont.eot);
-    src: url(fonts/helvetica_0-webfont.eot?#iefix) format('embedded-opentype'), url(fonts/helvetica_0-webfont.woff) format('woff'), url(fonts/helvetica_0-webfont.ttf) format('truetype'), url(fonts/helvetica_0-webfont.svg#helvetica-light) format('svg');
+    src: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.eot);
+    src: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.eot#iefix) format('embedded-opentype'), url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.woff) format('woff'), url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.ttf) format('truetype'), url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.svg#helvetica-light) format('svg');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: helveticaneue-light;
-    src: url(fonts/helveticaneue-light.eot);
-    src: url(fonts/helveticaneue-light.eot?#iefix) format('embedded-opentype'), url(fonts/helveticaneue-light.woff) format('woff'), url(fonts/helveticaneue-light.ttf) format('truetype'), url(fonts/helveticaneue-light.svg#helveticaneue-light) format('svg');
+    src: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helveticaneue-light.eot);
+    src: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helveticaneue-light.eot#iefix) format('embedded-opentype'), url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helveticaneue-light.woff) format('woff'), url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helveticaneue-light.ttf) format('truetype'), url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/fonts/helveticaneue-light.svg#helveticaneue-light) format('svg');
     font-weight: 400;
     font-style: normal;
 }
@@ -108,7 +108,7 @@ label.toglpstpgsbttl {
     margin: 0;
     width: 58px;
     display: block;
-    background: url(../images/count_bg.png) no-repeat;
+    background: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/images/count_bg.png) no-repeat;
     height: 38px;
     overflow: hidden;
     padding: 10px 2px 2px;
@@ -155,14 +155,14 @@ label.toglpstpgsbttl {
 .sfsi_mainContainer .checkbox {
     width: 31px;
     height: 31px;
-    background: url(../images/check_bg.jpg) no-repeat;
+    background: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/images/check_bg.jpg) no-repeat;
     display: inherit;
 }
 
 .sfsi_mainContainer .radio {
     width: 40px;
     height: 40px;
-    background: url(../images/radio_bg.png) no-repeat;
+    background: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/images/radio_bg.png) no-repeat;
     display: inherit;
 }
 
@@ -170,7 +170,7 @@ label.toglpstpgsbttl {
     width: 137px;
     height: 47px;
     font-size: 17px;
-    background: url(../images/select_bg.jpg) no-repeat;
+    background: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/images/select_bg.jpg) no-repeat;
     display: block;
     padding-left: 16px;
     line-height: 49px;
@@ -226,7 +226,7 @@ label.toglpstpgsbttl {
     margin: 0;
     width: 54px;
     display: block;
-    background: url(../images/count_bg.jpg) no-repeat;
+    background: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/images/count_bg.jpg) no-repeat;
     height: 24px;
     overflow: hidden;
     padding: 10px 2px 2px;
@@ -485,7 +485,7 @@ label.toglpstpgsbttl {
 .sticking .field .select {
     width: 206px;
     height: 47px;
-    background: url(../images/select_bg1.jpg) no-repeat;
+    background: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/images/select_bg1.jpg) no-repeat;
     display: block;
     padding-left: 10px;
 }
@@ -780,7 +780,7 @@ ul.flwstep>li {
 }
 
 ul.tab_3_list li {
-    background: url(../images/tab_3_list_bg.jpg) 13px 7px no-repeat;
+    background: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/images/tab_3_list_bg.jpg) 13px 7px no-repeat;
     padding: 0 0 0 30px;
     color: #778088;
     font-family: helveticaregular;
@@ -789,7 +789,7 @@ ul.tab_3_list li {
 }
 
 .tab5 ul.tab_3_list li {
-    background: url(../images/tab_3_list_bg.jpg) 13px 18px no-repeat;
+    background: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/images/tab_3_list_bg.jpg) 13px 18px no-repeat;
 }
 
 .tab3 .row h3 {
@@ -1555,7 +1555,7 @@ ul.tab_3_list li span {
 }
 
 #sfpageLoad {
-    background: url(../images/ajax-loader.gif) 50% 50% no-repeat #F9F9F9;
+    background: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/images/ajax-loader.gif) 50% 50% no-repeat #F9F9F9;
     height: 100%;
     left: 160px;
     opacity: 1;
@@ -1599,7 +1599,7 @@ ul.tab_3_list li span {
 }
 
 .sfsi_tool_tip_2 .bot_arow {
-    background: url(../images/bot_tip_icn.png) no-repeat;
+    background: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/images/bot_tip_icn.png) no-repeat;
     position: absolute;
     bottom: -21px;
     left: 50%;
@@ -1694,7 +1694,7 @@ ul.tab_3_list li span {
 }
 
 .norm_row .bot_no:before {
-    content: url(images/count_top_arow.png);
+    content: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/images/count_top_arow.png);
     position: absolute;
     height: 9px;
     margin-left: -7.5px;
@@ -2318,7 +2318,7 @@ h2.optional {
 }
 
 .sfsi_outr_div ul li .inerCnt .bot_no:before {
-    content: url(images/count_top_arow.png);
+    content: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/images/count_top_arow.png);
     position: absolute;
     height: 9px;
     margin-left: -7.5px;
@@ -2407,7 +2407,7 @@ h2.optional {
     margin: 0;
     width: 60px;
     display: block;
-    background: url(../images/count_bg.png) no-repeat;
+    background: url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/images/count_bg.png) no-repeat;
     height: 37px;
     overflow: hidden;
     padding: 10px 2px 2px;
@@ -2830,7 +2830,7 @@ ul.cstmskin_iconlist {
 }
 
 .sfsi_Sicons .sf_subscrbe .bot_no {
-    background: rgba(0, 0, 0, 0) url(images/count_left_arow.png) no-repeat scroll 0 0 / 27px auto;
+    background: rgba(0, 0, 0, 0) url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/images/count_left_arow.png) no-repeat scroll 0 0 / 27px auto;
     font-size: 12px !important;
     left: 67px;
     line-height: 18px !important;
@@ -3525,7 +3525,7 @@ ul.sfsi_icn_listing8 li .tb_4_ck{
 .sf_pinit .bot_no,
 .sf_linkedin .bot_no
  {
-    background: rgba(0, 0, 0, 0) url(images/count_left_arow.png) no-repeat scroll 0 0 / 27px auto;
+    background: rgba(0, 0, 0, 0) url(http://reminiscent.ml/wp-content/plugins/ultimate-social-media-icons/css/images/count_left_arow.png) no-repeat scroll 0 0 / 27px auto;
     font-size: 12px !important;
     left: 67px;
     line-height: 22px !important;
