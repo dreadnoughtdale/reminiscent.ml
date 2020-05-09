@@ -12,7 +12,7 @@
 	<atom:link href="http://reminiscent.ml/category/blog/news-and-updates/feed/" rel="self" type="application/rss+xml" />
 	<link>http://reminiscent.ml</link>
 	<description>Your quick source of designer fragrance decants</description>
-	<lastBuildDate>Sat, 09 May 2020 17:10:23 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 May 2020 17:23:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -41,11 +41,15 @@
 <p>The post <a rel="nofollow" href="http://reminiscent.ml/rem-our-chatbot-is-now-online/">Rem, our Chatbot, is Now Online!</a> appeared first on <a rel="nofollow" href="http://reminiscent.ml">Reminiscent</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>We are glad to announce that <strong>Reminiscent&#8217;s <a rel="noreferrer noopener" href="http://facebook.com/reminiscent.ml" target="_blank">Facebook Page</a></strong> and <strong><a rel="noreferrer noopener" href="http://re.mnis.cf/msgr" target="_blank">Messenger</a></strong> is now 24/7 online. Through hard work and dedication, we were able to create Rem. She will stand as Reminiscent&#8217;s Chatbot who will be in our frontlines to help you, our customers, with regards to your inquiries and concerns.</p>
+<p>We are glad to announce that <strong>Reminiscent&#8217;s <a rel="noreferrer noopener" href="http://facebook.com/reminiscent.ml" target="_blank">Facebook Page</a></strong> and <strong><a rel="noreferrer noopener" href="http://re.mnis.cf/msgr" target="_blank">Messenger</a></strong> is now 24/7 online. Through hard work and dedication, we were able to create Rem. She will stand as Reminiscent&#8217;s Chatbot who will be in our frontlines to help you, our customers, with regards to your inquiries and concerns involving <a href="http://reminiscent.ml/#decants" target="_blank" rel="noreferrer noopener">our products</a> and other services we could possibly provide.</p>
 
 
 
-<p><em><strong>If you&#8217;re interested in Rem&#8217;s story, feel free to browse below.</strong></em></p>
+<p class="has-text-align-center"><em><strong>If you&#8217;re interested in Rem&#8217;s story, feel free to browse below.</strong></em></p>
+
+
+
+<p></p>
 
 
 
@@ -61,15 +65,11 @@
 
 
 
-<figure class="wp-block-image"><img alt=""/></figure>
-
-
-
 <p>Rem has a <strong>strong sense of smell.</strong> In the anime, Rem was able to smell the witch&#8217;s scent on Subaru even from a distance. I <em>(Dale, founder of Reminiscent)</em> believe that <strong>I relate to Rem on that aspect.</strong></p>
 
 
 
-<h4><em>Reminiscent&#8217;s brand name origin composes of three important words. (and even Rem&#8217;s name)</em></h4>
+<h4 class="has-text-align-center"><em>Reminiscent&#8217;s brand name origin composes of three important words. (and even Rem&#8217;s name)</em></h4>
 
 
 
@@ -81,7 +81,11 @@
 
 
 
-<p>Just check us out on <strong><a href="http://re.mnis.cf/msgr" target="_blank" rel="noreferrer noopener">Facebook Messenger</a></strong> and click on &#8216;Get Started&#8217; or &#8216;Chat with Rem&#8217;. Rem would be glad to serve you your needs with regards to Reminiscent&#8217;s mini scents. If you ever encounter technical issues with Rem, or even suggestions and feedback, feel free to type a free-form message. We highly appreciate these and immediately address these types of concerns.</p>
+<p>Just check us out on <strong><a rel="noreferrer noopener" href="http://re.mnis.cf/msgr" target="_blank">Facebook Messenger</a></strong> and click on &#8216;Get Started&#8217; or &#8216;Chat with Rem&#8217;. Rem would be glad to serve you your needs with regards to <a href="http://reminiscent.ml/#shop" target="_blank" rel="noreferrer noopener">Reminiscent&#8217;s mini scents</a>. If you ever encounter technical issues with Rem, or even suggestions and feedback, feel free to type a free-form message. We highly appreciate these and immediately address these types of concerns.</p>
+
+
+
+<p></p>
 
 
 
@@ -135,5 +139,5 @@ Page Caching using disk: enhanced (Page is feed)
 Lazy Loading (feed)
 Minified using disk
 
-Served from: localhost @ 2020-05-10 01:15:37 by W3 Total Cache
+Served from: localhost @ 2020-05-10 01:24:12 by W3 Total Cache
 -->
