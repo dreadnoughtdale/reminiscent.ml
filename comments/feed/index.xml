@@ -11,7 +11,7 @@
 	<atom:link href="http://reminiscent.ml/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>http://reminiscent.ml</link>
 	<description>Your quick source of designer fragrance decants</description>
-	<lastBuildDate>Fri, 15 May 2020 17:33:47 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 May 2020 13:59:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -27,5 +27,5 @@ Page Caching using disk: enhanced (Page is feed)
 Lazy Loading (feed)
 Minified using disk
 
-Served from: localhost @ 2020-05-16 02:13:05 by W3 Total Cache
+Served from: localhost @ 2020-05-21 22:02:13 by W3 Total Cache
 -->
