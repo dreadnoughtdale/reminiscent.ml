@@ -11,12 +11,12 @@
 	<atom:link href="http://reminiscent.ml/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>http://reminiscent.ml</link>
 	<description>Your quick source of designer fragrance decants</description>
-	<lastBuildDate>Mon, 08 Jun 2020 00:50:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Jun 2020 04:29:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 </channel>
 </rss>
 
@@ -27,5 +27,5 @@ Page Caching using disk: enhanced (Page is feed)
 Lazy Loading (feed)
 Minified using disk
 
-Served from: localhost @ 2020-06-08 08:53:26 by W3 Total Cache
+Served from: localhost @ 2020-06-16 12:31:18 by W3 Total Cache
 -->
